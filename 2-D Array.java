@@ -1,4 +1,3 @@
-<JAVA
 /**
  *
  * @author Louis
