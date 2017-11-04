@@ -2,6 +2,7 @@
  *
  * @author Louis
  */
+//二維陣列的應用
 package HW2;
 
 import HW1.GradeBook;
