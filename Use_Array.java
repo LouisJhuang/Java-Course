@@ -2,6 +2,7 @@
  *
  * @author Louis
  */
+//一維陣列的應用 - 計算成績
 package HW1;
 public class GradeBook {
 
