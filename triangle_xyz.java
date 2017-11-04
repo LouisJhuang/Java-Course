@@ -1,3 +1,9 @@
+/**
+ *
+ * @author Louis
+ */
+//三角形三邊長的解法
+
 package java_test_1;
 
 public class HW_xyz {
