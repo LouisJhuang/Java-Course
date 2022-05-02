@@ -6,10 +6,6 @@ About Bachelor in Information Management freshman Java Course.
 ###
 * [Apache NetBeans IDE 12.0](https://netbeans.apache.org/)
 
-# Testing Tool
-###
-* [Postman](https://www.postman.com/)
-
 # Requirements
 ###
 ```
