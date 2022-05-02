@@ -2,11 +2,11 @@
 資管系大一 Java題目相關教學   
 About Bachelor in Information Management freshman Java Course.
 
-# IDE
+## IDE
 ###
 * [Apache NetBeans IDE 12.0](https://netbeans.apache.org/)
 
-# Requirements
+## Requirements
 ###
 ```
 Java JDK 1.8.0_301
