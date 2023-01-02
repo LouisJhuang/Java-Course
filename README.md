@@ -1,6 +1,6 @@
 # Java-Course
 資管系大一 Java題目相關教學   
-About Bachelor in Information Management freshman Java Course.
+Department of Information Management freshman Java course.(NKUST)
 
 ## IDE
 ###
